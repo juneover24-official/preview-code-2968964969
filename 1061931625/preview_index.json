@@ -1,7 +1,7 @@
 {
   "qq_number": "2968964969",
   "group_number": "1061931625",
-  "updated_at": "2026-06-03T11:51:04+00:00",
+  "updated_at": "2026-06-03T11:58:52+00:00",
   "skins": [
     {
       "name": "星恬の可爱一二布布",
@@ -20,6 +20,12 @@
       "file": "星恬の免费会11.bds",
       "thumb": "星恬の免费会11.bds_py_26_light_thumb.png",
       "full": "星恬の免费会11.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "星恬の可爱一二布布",
+      "file": "星恬の可爱一二布布.bds",
+      "thumb": "星恬の可爱一二布布.bds_py_26_light_thumb.png",
+      "full": "星恬の可爱一二布布.bds_py_26_light_thumb.png"
     }
   ]
 }
